@@ -2,7 +2,7 @@
 public class TestandoJU {
 	
 	public void a(){
-		System.out.println("Novo teste 2");
+		System.out.println("Novo teste 4");
 		
 	}
 
